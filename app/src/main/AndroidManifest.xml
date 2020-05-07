@@ -3,7 +3,6 @@
     package="com.example.jiandaoapp">
 
     <uses-permission android:name="android.permission.INTERNET"/>
-    听不见吗？
 
     <!--你确定这个代码，是我前天发的那个，-->
     <application
