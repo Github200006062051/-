@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JianDaoApp</string>
+    <string name="tuijian">推荐</string>
+    <string name="video">视频</string>
+    <string name="zt">专题</string>
+    <string name="my">我的</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
